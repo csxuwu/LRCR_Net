@@ -4,7 +4,7 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-g) ![pytorch 1.12.0](https://img.shields.io/badge/pytorch-1.12.0-blue.svg)
 
 This is the official PyTorch codes for the paper.  
->**Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement**<br>  [Xu Wu](https://csxuwu.github.io/), Zhihui Lai<sup>*</sup>, Shiqi Yu, Zhuoqian Liang, Linlin Shen （ * indicates corresponding author)<br>
+>**Coarse-to-Fine Low-light Image Enhancement with Light Restoration and Color Refinement**<br>  [Xu Wu](https://csxuwu.github.io/), Zhihui Lai<sup>*</sup>, Shiqi Yu, Jie Zhou, Zhuoqian Liang, Linlin Shen （ * indicates corresponding author)<br>
 >IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2023
 
 
