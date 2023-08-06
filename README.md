@@ -12,12 +12,10 @@ This is the official PyTorch codes for the paper.
 
 
 ### :rocket: Highlights:
-- **SOTA performance**: The proposed RIDCP achieves superior performance in both qualitative and quantitative comparisons with SOTA methods.
-- **Adjustable**: Our RIDCP can adjust the degree of enhancement manually.
-### :page_facing_up: Todo-list
-- Release code for VQGAN pre-training and CHM weights acquiring
-- Website page
-- Colab demo
+- A novel framework called LRCR-Net, whose most notable property is its progressive coarse-to-fine paradigm, is proposed for low-light image enhancement. With this advanced paradigm that overcomes the crucial challenges, LRCR-Net can achieve proper light restoration and visual pleasing color.
+- In the coarse step, the RCRB is designed to fully explore and exploit low-light region features from both local and global perspectives. Moreover, the LIPOs are introduced in the fine step to refine the color output of the coarse step, thereby further improving the performance of the LRCR-Net.
+- The effectiveness of LRCR-Net has been validated on various low-light enhancement benchmarks. These results demonstrate the superiority of our LRCR-Net over other state-of-the-art techniques.
+
 
 ## Demo
 <img src="figs/LRCR_framework.png" width="800px">
