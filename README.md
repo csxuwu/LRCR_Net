@@ -8,9 +8,11 @@ This is the official PyTorch codes for the paper.
 >IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI), 2023
 
 
-![framework_img](figs/framework_overview.png)
+![framework_img](figs/LRCR_framework.png)
 
+```
 [[Arxiv Paper](https://arxiv.org/abs/2304.03994)]  [中文版 (TBD)] [[Website Page](https://rq-wu.github.io/projects/RIDCP/index.html)]  [[Dataset](https://pan.baidu.com/s/1oX3AZkVlEa7S1sSO12r47Q) (pwd:qqqo)]
+```
 
 ### :rocket: Highlights:
 - **SOTA performance**: The proposed RIDCP achieves superior performance in both qualitative and quantitative comparisons with SOTA methods.
@@ -21,7 +23,7 @@ This is the official PyTorch codes for the paper.
 - Colab demo
 
 ## Demo
-<img src="figs/fig1.png" width="800px">
+<img src="figs/LRCR_framework.png" width="800px">
 <img src="figs/fig2.png" width="800px">
 
 ### Video examples
