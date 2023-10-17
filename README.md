@@ -35,7 +35,7 @@ Low-light image enhancement aims to improve the illumination intensity while res
 <img src="figs/NPE.png" width="800px">
 
 ### Quantitative comparisons
-<img src="figs/quantic.png" width="800px">
+<img src="figs/quantic_compare.png" width="800px">
 
 ## Dependencies and Installation
 
