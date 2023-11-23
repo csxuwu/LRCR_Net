@@ -39,16 +39,14 @@ Low-light image enhancement aims to improve the illumination intensity while res
 
 ## Dependencies and Installation
 
-- Ubuntu >= 18.04
 - CUDA >= 11.0
 - Other required packages in `requirements.txt`
-
-
+- 
 ### Test LRCR
-pass
+python test_for_LRCR.py
 
 ### Train LRCR
-pass
+python trains_for_LRCR.py
 
 ## Citation
 If you find our repo useful for your research, please cite us:
