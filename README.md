@@ -41,7 +41,7 @@ Low-light image enhancement aims to improve the illumination intensity while res
 
 - CUDA >= 11.0
 - Other required packages in `requirements.txt`
-- 
+
 ### Test LRCR
 python test_for_LRCR.py
 
